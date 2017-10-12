@@ -5,15 +5,15 @@
 // @description  try to take over the world!
 // @author       Flyink13, DarkKeks, nastyagrifon
 // @match        https://pixel.vkforms.ru/*
-// @downloadURL  https://rawgit.com/DarkKeks/PixelBot/master/PixelBot.js
-// @updateURL    https://rawgit.com/DarkKeks/PixelBot/master/PixelBot.js
+// @downloadURL  https://github.com/Neckronus/PublicPixelBot/raw/master/PixelBot.user.js
+// @updateURL    https://github.com/Neckronus/PublicPixelBot/raw/master/PixelBot.user.js
 // @grant        none
 // ==/UserScript==
 
 function MyAwesomePixelBot() {
     window.MyAwesomePixelBot = MyAwesomePixelBot;
     MyAwesomePixelBot.url = {
-        script: 'https://rawgit.com/DarkKeks/PublicPixelBot/master/PixelBot.user.js',
+        script: 'https://github.com/Neckronus/PublicPixelBot/raw/master/PixelBot.user.js',
         image: 'https://i.imgur.com/zy2zBxt.png' 
     };
     MyAwesomePixelBot.refreshTime = 300;
