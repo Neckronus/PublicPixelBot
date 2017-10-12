@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Pixel Bot Tj + Bp
+// @name         Pixel Bot Lentach + Durov
 // @namespace    http://tampermonkey.net/
-// @version      1.1.2
+// @version      1.1.2 LD
 // @description  try to take over the world!
-// @author       Flyink13, DarkKeks
+// @author       Flyink13, DarkKeks, nastyagrifon
 // @match        https://pixel.vkforms.ru/*
 // @downloadURL  https://rawgit.com/DarkKeks/PixelBot/master/PixelBot.js
 // @updateURL    https://rawgit.com/DarkKeks/PixelBot/master/PixelBot.js
@@ -14,7 +14,7 @@ function MyAwesomePixelBot() {
     window.MyAwesomePixelBot = MyAwesomePixelBot;
     MyAwesomePixelBot.url = {
         script: 'https://rawgit.com/DarkKeks/PublicPixelBot/master/PixelBot.user.js',
-        image: 'https://i.imgur.com/5W9M4bZ.png'
+        image: 'https://i.imgur.com/zy2zBxt.png' 
     };
     MyAwesomePixelBot.refreshTime = 300;
     MyAwesomePixelBot.pts = 30;
